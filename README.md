@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computational Biology
 - 🌱 I’m currently learning Cancer Biology
 - 💞️ I’m looking to collaborate on Machine Learning based bioinformatics projects
-- 📫 How to reach me ...
+- 📫 a(dot)manutej(at)gmail(dot)com
 
 <!---
 manu-tej/manu-tej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
