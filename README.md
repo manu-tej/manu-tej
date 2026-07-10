@@ -2,7 +2,7 @@
 
 Bioinformatics scientist working at the intersection of oncology drug discovery, machine learning, and scientific agents.
 
-I have worked in bioinformatics for 10 years, including 6+ years at Arcus Biosciences across target validation, preclinical mechanism-of-action, clinical biomarkers, and the production data systems underneath that work. I have led architecture and engineering for multi-omics platforms, clinical data marts, RNA-seq and WES pipelines, storage systems, and internal tools used by scientists.
+I have spent 8 years applying machine learning and software engineering to biology, including 6+ years at Arcus Biosciences across target validation, preclinical mechanism-of-action, clinical biomarkers, and the production data systems underneath that work. I have led architecture and engineering for multi-omics platforms, clinical data marts, RNA-seq and WES pipelines, storage systems, and internal tools used by scientists.
 
 Outside my professional work, I build and evaluate AI systems for computational biology. My current focus is whether biology agents can execute real analyses reliably, expose auditable artifacts, and recognize when the available evidence is insufficient.
 
