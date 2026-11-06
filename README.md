@@ -1,13 +1,14 @@
 ### Manu Tej Sharma Arrojwala
 
-Bioinformatics scientist — 8 years applying ML and software engineering to biology, 6+ in oncology drug discovery at **Arcus Biosciences** (tumor-immune phenotyping, neoantigen & TCR workflows, multi-omics platforms and pipelines).
+Bioinformatics scientist with six years inside an oncology biotech, **Arcus Biosciences** (tumor-immune phenotyping, neoantigen and TCR workflows, multi-omics platforms and pipelines). I work with its biology teams on their data questions.
 
-I build **biology agents and the evaluations that test whether they run real analyses with calibrated uncertainty** — systems that recognize when the evidence isn't there and stop, instead of returning a confident answer that's quietly wrong.
+On the side I have been building and evaluating research agents and writing down what I find, including when it does not work. Each project below has a dated standing on its page.
 
-**Selected work**
-- [coscientist](https://github.com/manu-tej/coscientist) — multi-agent hypothesis tournament with a truth-tracking eval harness grounded against GPQA-bio
-- [ai-scientists](https://github.com/manu-tej/ai-scientists) — trust profile of biology agents on BiomniBench-DA (contamination, calibration, refusal, benchmark validity)
-- [methods-graph](https://github.com/manu-tej/methods-graph) — bioinformatics methods knowledge graph (EDAM + nf-core + BioContainers on Kùzu)
-- [dogma](https://github.com/manu-tej/dogma) — graph-grounded bioinformatics method guidance in the IDE
+**Threads**
+- [coscientist](https://manu-tej.github.io/threads/coscientist/): an experimental multi-agent system that generates, critiques and revises scientific hypotheses, with six specialist roles and an Elo tournament that ranks the candidates. Paused; source private.
+- [ai-scientists and benchmake](https://manu-tej.github.io/threads/ai-scientists/): evaluations of coding agents on BiomniBench-DA biology tasks, with task variants, repeated runs, scoring and failure analysis, and a tool to author and validate benchmark task bundles. Evaluation runs on hold since the retractions of October 2026; benchmake authoring continues locally. Source private.
+- [dogma and methods-graph](https://manu-tej.github.io/threads/dogma/): dogma treats a hypothesis as a graph of claims and checks whether a proposed analysis has the data, method assumptions and provenance to assess each one; methods-graph connects bioinformatics methods to their assumptions, diagnostics and data handoffs. Paused; [dogma](https://github.com/manu-tej/dogma) is public, methods-graph private.
 
-🔗 [manu-tej.github.io](https://manu-tej.github.io)
+**Notes**: [results, failed approaches, next steps](https://manu-tej.github.io/notes/)
+
+**Work**: [the app, the pipelines, the science](https://manu-tej.github.io/work/)
