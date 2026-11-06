@@ -1,8 +1,8 @@
 ### Manu Tej Sharma Arrojwala
 
-Bioinformatics scientist with six years inside an oncology biotech, **Arcus Biosciences** (tumor-immune phenotyping, neoantigen and TCR workflows, multi-omics platforms and pipelines). I work with its biology teams on their data questions.
+Bioinformatics scientist with six years at an oncology biotech, **Arcus Biosciences** (tumor-immune phenotyping, neoantigen and TCR workflows, multi-omics platforms and pipelines). I work with its biology teams on their data questions.
 
-On the side I have been building and evaluating research agents and writing down what I find, including when it does not work. Each project below has a dated standing on its page.
+On the side I have been building and evaluating research agents and writing up what I find. Each project below has a dated standing on its page.
 
 **Threads**
 - [coscientist](https://manu-tej.github.io/threads/coscientist/): an experimental multi-agent system that generates, critiques and revises scientific hypotheses, with six specialist roles and an Elo tournament that ranks the candidates. Paused; source private.
